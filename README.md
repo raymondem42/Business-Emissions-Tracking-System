@@ -5,6 +5,7 @@
 1. [Overview](#overview)
 2. [Planned Features](#features)
 3. [License](#license)
+4. [Goals](#Goals)
 
 ## Overview <a name="overview"></a>
 
@@ -35,3 +36,10 @@ Welcome to the **Future Sustainable Business Emissions Tracking System**! This R
 ## License <a name="license"></a>
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Goals for week <a name="Goals"></a>
+- Finish python code to get api calls for 1 of the sub classes
+- Write out the dummy data for the rest of the subclsasees (should be simple)
+- Stop being sick and work on things
+
+Deadline - 04/28
